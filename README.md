@@ -28,7 +28,7 @@ LANGUAGES
 - C
 - SQL
 - Scala
-- Tamil 
+- தமிழ் (Tamil) 
 - English
 - French (basic)
 - Japanese (basic)
