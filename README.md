@@ -16,13 +16,13 @@ I'm currently learning about waveguide holographic optics
 
 .
 
-PROFILE
+PROFILE 📘
 
 - [LinkedIn](https://www.linkedin.com/in/naveen-kumar-s-921990210/)
 - [HackerRank](https://www.hackerrank.com/snaveenkumar343)
 
 
-LANGUAGES
+LANGUAGES 🧠
 
 - Python
 - C
@@ -34,7 +34,12 @@ LANGUAGES
 - Japanese (basic)
 
 
-CERTIFICATIONS
+CERTIFICATIONS 🧾
+
+EDUCATION 🏫
+
+- Completed my high school at Sri krishnaswamy matriculation higher secondary school 
+- Currently pursuing B.Tech Artificial Intelligence and Data Science at Easwari Engineering college 
 
   
 
