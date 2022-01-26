@@ -18,7 +18,7 @@ I'm currently learning about waveguide holographic optics
 
 PROFILE
 
-- [LinkedIn profile](https://www.linkedin.com/in/naveen-kumar-s-921990210/)
+- [LinkedIn](https://www.linkedin.com/in/naveen-kumar-s-921990210/)
 - [HackerRank](https://www.hackerrank.com/snaveenkumar343)
 
 
