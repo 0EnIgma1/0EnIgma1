@@ -33,9 +33,6 @@ LANGUAGES 🧠
 - French (basic)
 - Japanese (basic)
 
-
-CERTIFICATIONS 🧾
-
 EDUCATION 🏫
 
 - Completed my high school at Sri krishnaswamy matriculation higher secondary school 
