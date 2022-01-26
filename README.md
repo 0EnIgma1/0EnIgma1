@@ -16,6 +16,8 @@ I'm currently learning about waveguide holographic optics
 
 .
 
+[LinkedIn profile](https://www.linkedin.com/in/naveen-kumar-s-921990210/)
+
 .
 
 CERTIFICATIONS 
