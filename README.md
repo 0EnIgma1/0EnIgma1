@@ -1,14 +1,25 @@
 ### Hello y'all 👋
+
 This is Naveen 
+
 I'm an AI enthusisast and a cosmo geek 
-Willing to bring a change in the world 
+
+Willing to bring a change in the world
+
 I'm currently a student learning and honing my skills
+
 I'm currently learning about waveguide holographic optics
+
 .
+
 .
+
 .
+
 .
+
 CERTIFICATIONS 
+
 
 
 <!--
