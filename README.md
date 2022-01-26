@@ -16,11 +16,27 @@ I'm currently learning about waveguide holographic optics
 
 .
 
-[LinkedIn profile](https://www.linkedin.com/in/naveen-kumar-s-921990210/)
+PROFILE
 
-.
+- [LinkedIn profile](https://www.linkedin.com/in/naveen-kumar-s-921990210/)
+- [HackerRank](https://www.hackerrank.com/snaveenkumar343)
 
-CERTIFICATIONS 
+
+LANGUAGES
+
+- Python
+- C
+- SQL
+- Scala
+- Tamil 
+- English
+- French (basic)
+- Japanese (basic)
+
+
+CERTIFICATIONS
+
+  
 
 
 
