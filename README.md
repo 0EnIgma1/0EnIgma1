@@ -8,7 +8,9 @@ Willing to bring a change in the world
 
 I'm currently a student learning and honing my skills
 
-I'm currently learning about waveguide holographic optics
+I'm currently learning about waveguide holographic optics 
+
+Currently working on my Gesture controlled computer (GCC)
 
 .
 
