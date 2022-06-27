@@ -16,6 +16,8 @@ Also working on my theories about gravity and quantum physics
 
 ![Alt Text](https://github.com/0EnIgma1/0EnIgma1/blob/main/Ir9.gif | width=100)
 
+<img src="https://github.com/0EnIgma1/0EnIgma1/blob/main/Ir9.gif" width="250" height="250"/>
+
 PROFILE 📘
 
 - [LinkedIn](https://www.linkedin.com/in/naveen-kumar-s-921990210/)
@@ -38,7 +40,11 @@ EDUCATION 🏫
 - Completed my high school at Sri krishnaswamy matriculation higher secondary school 
 - Currently pursuing B.Tech Artificial Intelligence and Data Science at Easwari Engineering college 
 
-  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0EnIgma1&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0EnIgma1&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0EnIgma1&theme=dark)](https://git.io/streak-stats)
 
 
 
@@ -56,8 +62,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0EnIgma1&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0EnIgma1&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0EnIgma1&theme=dark)](https://git.io/streak-stats)
