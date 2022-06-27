@@ -4,10 +4,6 @@
 
 This is Naveen 
 
-<p align="center">
-  <img width="100" height="100" src="https://github.com/0EnIgma1/0EnIgma1/blob/main/33Ho.gif">
-</p>
-
 I'm an AI enthusiast , gamer and a cosmo geek who is on a quest for knowledge.
 
 Willing to bring a change in the world
@@ -20,7 +16,9 @@ Currently working on my Gesture controlled computer (GCC)
 
 Also working on my theories about gravity and quantum physics
 
-<img src="https://github.com/0EnIgma1/0EnIgma1/blob/main/Ir9.gif" width="250" height="250"/>
+<p align="center">
+  <img width="100" height="100" src="https://github.com/0EnIgma1/0EnIgma1/blob/main/33Ho.gif">
+</p>
 
 PROFILE 📘
 
