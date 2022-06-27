@@ -2,7 +2,7 @@
 
 This is Naveen 
 
-I'm an AI enthusiast , gamer and a cosmo geek 
+I'm an AI enthusiast , gamer and a cosmo geek who is on a quest for knowledge.
 
 Willing to bring a change in the world
 
