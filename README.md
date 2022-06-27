@@ -5,7 +5,7 @@
 This is Naveen 
 
 <p align="center">
-  <img width="100" height="100" src="">
+  <img width="100" height="100" src="https://github.com/0EnIgma1/0EnIgma1/blob/main/33Ho.gif">
 </p>
 
 I'm an AI enthusiast , gamer and a cosmo geek who is on a quest for knowledge.
