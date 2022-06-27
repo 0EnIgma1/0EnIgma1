@@ -4,6 +4,10 @@
 
 This is Naveen 
 
+<p align="center">
+  <img width="100" height="100" src="">
+</p>
+
 I'm an AI enthusiast , gamer and a cosmo geek who is on a quest for knowledge.
 
 Willing to bring a change in the world
