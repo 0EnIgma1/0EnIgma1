@@ -14,9 +14,7 @@ Currently working on my Gesture controlled computer (GCC)
 
 Also working on my theories about gravity and quantum physics
 
-<p align="center">
-  <img width="250" src="[[https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif](https://www.nasa.gov/feature/goddard/2019/nasa-visualization-shows-a-black-hole-s-warped-world)](https://gifer.com/en/GqgS)](https://i.gifer.com/GqgS.gif)">
-</p>
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://i.gifer.com/GqgS.gif))
 
 PROFILE 📘
 
