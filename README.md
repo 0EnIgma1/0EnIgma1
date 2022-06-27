@@ -1,5 +1,7 @@
 ### Hello y'all 👋
 
+<img align = "right" width="50" height="50" src="https://github.com/0EnIgma1/0EnIgma1/blob/main/Ir9.gif"/>
+
 This is Naveen 
 
 I'm an AI enthusiast , gamer and a cosmo geek who is on a quest for knowledge.
