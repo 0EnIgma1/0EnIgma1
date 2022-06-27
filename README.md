@@ -14,7 +14,7 @@ Currently working on my Gesture controlled computer (GCC)
 
 Also working on my theories about gravity and quantum physics
 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text][([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)](https://i.gifer.com/Ir9.gif)
 
 PROFILE 📘
 
