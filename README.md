@@ -17,7 +17,7 @@ Currently working on my Gesture controlled computer (GCC)
 Also working on my theories about gravity and quantum physics
 
 <p align="center">
-  <img width="100" height="100" src="https://github.com/0EnIgma1/0EnIgma1/blob/main/33Ho.gif">
+  <img width="150" height="150" src="https://github.com/0EnIgma1/0EnIgma1/blob/main/33Ho.gif">
 </p>
 
 PROFILE 📘
