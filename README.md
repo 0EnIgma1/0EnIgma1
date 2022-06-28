@@ -2,7 +2,7 @@
 
 <img align = "right" width="100" height="100" src="https://github.com/0EnIgma1/0EnIgma1/blob/main/Vp3M.gif"/>
 
-This is Naveen 
+This is **Naveen** 
 
 I'm an **AI enthusiast** , gamer and a cosmo geek who is on a **quest for knowledge** 🌀
 
