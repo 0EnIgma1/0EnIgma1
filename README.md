@@ -10,8 +10,6 @@ I'm an **AI enthusiast** , gamer and a cosmo geek who is on a **quest for knowle
 
 I'm currently a student learning and honing my skills
 
-Learning about waveguide holographic optics 
-
 Currently working on my **Gesture controlled computer (GCC)**
 
 Also working on my theories about **gravity** and **quantum physics**
