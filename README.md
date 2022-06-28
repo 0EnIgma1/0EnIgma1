@@ -1,8 +1,8 @@
-### Hello y'all 👋
+# Hello y'all 👋
 
 <img align = "right" width="100" height="100" src="https://github.com/0EnIgma1/0EnIgma1/blob/main/Vp3M.gif"/>
 
-This is **Naveen** 
+## This is **Naveen** 
 
 I'm an **AI enthusiast** , gamer and a cosmo geek who is on a **quest for knowledge** 🌀
 
@@ -18,12 +18,12 @@ Also working on my theories about **gravity** and **quantum physics**
   <img width="150" height="150" src="https://github.com/0EnIgma1/0EnIgma1/blob/main/33Ho.gif">
 </p>
 
-PROFILE 📘
+## PROFILE 📘
          
 - [LinkedIn](https://www.linkedin.com/in/naveen-kumar-s-921990210/)
 - [HackerRank](https://www.hackerrank.com/snaveenkumar343)
 
-LANGUAGES 🧠
+## LANGUAGES 🧠
 
 - Python
 - C
@@ -34,7 +34,7 @@ LANGUAGES 🧠
 - French (basic)
 - Japanese (basic)
 
-EDUCATION 🏫
+## EDUCATION 🏫
 
 - Completed my high school at Sri krishnaswamy matriculation higher secondary school 
 - Currently pursuing B.Tech Artificial Intelligence and Data Science at Easwari Engineering college 
