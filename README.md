@@ -4,17 +4,17 @@
 
 This is Naveen 
 
-I'm an AI enthusiast , gamer and a cosmo geek who is on a quest for knowledge 🌀
+I'm an **AI enthusiast** , gamer and a cosmo geek who is on a **quest for knowledge** 🌀
 
-Willing to bring a change in the world 🌏
+**Willing to bring a change in the world** 🌏
 
 I'm currently a student learning and honing my skills
 
 Learning about waveguide holographic optics 
 
-Currently working on my Gesture controlled computer (GCC)
+Currently working on my **Gesture controlled computer (GCC)**
 
-Also working on my theories about gravity and quantum physics
+Also working on my theories about **gravity** and **quantum physics**
 
 <p align="center">
   <img width="150" height="150" src="https://github.com/0EnIgma1/0EnIgma1/blob/main/33Ho.gif">
