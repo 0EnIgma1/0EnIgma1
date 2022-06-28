@@ -19,9 +19,10 @@ Also working on my theories about **gravity** and **quantum physics**
 </p>
 
 <p align="center">
-PROFILE 📘
+<PROFILE 📘
+         
 - [LinkedIn](https://www.linkedin.com/in/naveen-kumar-s-921990210/)
-- [HackerRank](https://www.hackerrank.com/snaveenkumar343)
+- [HackerRank](https://www.hackerrank.com/snaveenkumar343)>
 </p>
 
 LANGUAGES 🧠
