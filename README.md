@@ -25,17 +25,18 @@ Also working on my theories about **gravity** and **quantum physics**
 - [HackerRank](https://www.hackerrank.com/snaveenkumar343)
 - [UV](https://theuvofearth.wixsite.com/stage1)
 
-
-## LANGUAGES 🧠
-
-- Python
-- C
-- SQL
-- Scala
-- தமிழ் (Tamil) 
-- English
-- French (basic)
-- Japanese (basic)
+<p algin="center">
+  <
+  ## LANGUAGES 🧠
+  - Python
+  - C
+  - SQL
+  - Scala
+  - தமிழ் (Tamil) 
+  - English
+  - French (basic)
+  - Japanese (basic)
+  /p>
 
 ## EDUCATION 🏫
 
