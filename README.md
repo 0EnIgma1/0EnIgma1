@@ -25,8 +25,7 @@ Also working on my theories about **gravity** and **quantum physics**
 - [HackerRank](https://www.hackerrank.com/snaveenkumar343)
 - [UV](https://theuvofearth.wixsite.com/stage1)
 
-<p algin="center">
-  <
+
   ## LANGUAGES 🧠
   - Python
   - C
@@ -36,7 +35,6 @@ Also working on my theories about **gravity** and **quantum physics**
   - English
   - French (basic)
   - Japanese (basic)
-  /p>
 
 ## EDUCATION 🏫
 
