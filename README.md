@@ -18,12 +18,13 @@ Also working on my theories about **gravity** and **quantum physics**
   <img width="150" height="150" src="https://github.com/0EnIgma1/0EnIgma1/blob/main/33Ho.gif">
 </p>
 
-<p align = "center">
-<PROFILE 📘     
+
+## PROFILE 📘 
+
 - [LinkedIn](https://www.linkedin.com/in/naveen-kumar-s-921990210/)
 - [HackerRank](https://www.hackerrank.com/snaveenkumar343)
-- [UV](https://theuvofearth.wixsite.com/stage1)>
-</p>
+- [UV](https://theuvofearth.wixsite.com/stage1)
+
 
 ## LANGUAGES 🧠
 
