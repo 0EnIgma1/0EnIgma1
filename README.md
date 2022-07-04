@@ -19,11 +19,11 @@ Also working on my theories about **gravity** and **quantum physics**
 </p>
 
 
-## PROFILE 📘 
+                                    ## PROFILE 📘 
 
-- [LinkedIn](https://www.linkedin.com/in/naveen-kumar-s-921990210/)
-- [HackerRank](https://www.hackerrank.com/snaveenkumar343)
-- [UV](https://theuvofearth.wixsite.com/stage1)
+                                    - [LinkedIn](https://www.linkedin.com/in/naveen-kumar-s-921990210/)
+                                    - [HackerRank](https://www.hackerrank.com/snaveenkumar343)
+                                    - [UV](https://theuvofearth.wixsite.com/stage1)
 
 
   ## LANGUAGES 🧠
