@@ -59,6 +59,7 @@ Also working on my theories about **gravity** and **quantum physics**
   - MySQL
   - Django
   - Wagtail
+  - Git
   
 ## LANGUAGES 🧠
   - தமிழ் (Tamil) 
