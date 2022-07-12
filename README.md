@@ -55,6 +55,7 @@ Also working on my theories about **gravity** and **quantum physics**
   - TensorFlow
   - Mediapipe
   - Postgres
+  - MySQL
   - Django
   - Wagtail
   
