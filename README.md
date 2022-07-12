@@ -14,10 +14,6 @@ Currently working on my **Gesture controlled computer (GCC)**
 
 Also working on my theories about **gravity** and **quantum physics**
 
-<p align="center">
-  <img width="150" height="150" src="https://github.com/0EnIgma1/0EnIgma1/blob/main/33Ho.gif">
-</p>
-
 
    ## PROFILE 📘 
 
@@ -25,7 +21,12 @@ Also working on my theories about **gravity** and **quantum physics**
    - [HackerRank](https://www.hackerrank.com/snaveenkumar343)
    - [UV](https://theuvofearth.wixsite.com/stage1)
 
+
+<div>
 <img align="right" width="150" height="150" src="https://github.com/0EnIgma1/0EnIgma1/blob/main/33Ho.gif"/>
+</div>
+
+
    ## LANGUAGES 🧠
   - Python
   - C
