@@ -31,7 +31,7 @@ Also working on my theories about **gravity** and **quantum physics**
 
    - [LinkedIn](https://www.linkedin.com/in/naveen-kumar-s-921990210/)
    - [HackerRank](https://www.hackerrank.com/snaveenkumar343)
-   - [UV](https://theuvofearth.wixsite.com/stage1)
+   - [Join my secret society UV](https://theuvofearth.wixsite.com/stage1)
 
 
 <div>
