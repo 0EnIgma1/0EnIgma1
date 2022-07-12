@@ -15,6 +15,11 @@ Currently working on my **Gesture controlled computer (GCC)**
 Also working on my theories about **gravity** and **quantum physics**
 
 
+[U can collect my NFT's at here](https://opensea.io/collection/stickrole)
+<div style = "display:flex">
+   <img src = "https://lh3.googleusercontent.com/gOlEck0dTvEcn9p4V4F5xk4_9zGz0U04M3b-DOYNDyojeTWIWTWZURe6OqGTkWq0ot1nFhcuzuGM3Jm_lviu6FJ7nGKLqDLHMLZL=s0" height = "100cm">
+ </div>
+
    ## PROFILE 📘 
 
    - [LinkedIn](https://www.linkedin.com/in/naveen-kumar-s-921990210/)
@@ -27,15 +32,30 @@ Also working on my theories about **gravity** and **quantum physics**
 </div>
 
 
-   ## LANGUAGES 🧠
+## PROGRAMMING LANGUAGEs  
   - Python
   - C
   - SQL
   - Scala
+  - Prolog
+  - HTML
+  
+## TOOLS
+  - OpenCV
+  - Pandas
+  - Unity
+  - Vs code
+  - TensorFlow
+  - Mediapipe
+  - Postgres
+  - Django
+  - Wagtail
+  
+## LANGUAGES 🧠
   - தமிழ் (Tamil) 
   - English
   - French (basic)
-  - Japanese (basic)
+  - 日本語 (basic)
 
 ## EDUCATION 🏫
 
