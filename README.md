@@ -47,6 +47,10 @@ Also working on my theories about **gravity** and **quantum physics**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0EnIgma1&theme=dark)](https://git.io/streak-stats)
 
+<div style = "display:flex">
+<img src = "https://github-readme-stats.vercel.app/api?username=0EnIgma1&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt = "Github stats" height = "170em" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=0EnIgma1&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark" alt = "Github stats again" height = "170em" />
+</div>
 
 
 <!--
