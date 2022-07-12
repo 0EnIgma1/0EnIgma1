@@ -41,14 +41,15 @@ Also working on my theories about **gravity** and **quantum physics**
 - Completed my high school at Sri krishnaswamy matriculation higher secondary school 
 - Currently pursuing B.Tech Artificial Intelligence and Data Science at Easwari Engineering college 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0EnIgma1&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0EnIgma1&theme=dark)](https://git.io/streak-stats)
 
 <div style = "display:flex">
 <img src = "https://github-readme-stats.vercel.app/api?username=0EnIgma1&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt = "Github stats" height = "170em" />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=0EnIgma1&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark" alt = "Github stats again" height = "170em" />
 </div>
+<div style = "display:flex">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=0EnIgma1&theme=dark" alt = "Github Streak" height = "170cm" />
+ </div>
 
 
 <!--
