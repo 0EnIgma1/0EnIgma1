@@ -16,7 +16,7 @@ Also working on my theories about **gravity** and **quantum physics**
 
 
 
-[U can collect my NFT's here](https://opensea.io/collection/stickrole)
+[You can collect my NFT's here](https://opensea.io/collection/stickrole)
 <div style = "display:flex">
    <img src = "https://lh3.googleusercontent.com/gOlEck0dTvEcn9p4V4F5xk4_9zGz0U04M3b-DOYNDyojeTWIWTWZURe6OqGTkWq0ot1nFhcuzuGM3Jm_lviu6FJ7nGKLqDLHMLZL=s0" height = "100cm">
    <img src = "https://lh3.googleusercontent.com/Y5U23TcoDYCquSek0Cm6iSjYj6Ur8JQLA-Y9O6ov7hEsuPQk2jemalXCvBnnZSgpBBh6iohk3JC8skMJSeFMqWor66MTkbNuUJKdC2E=w600" height = "100cm">
