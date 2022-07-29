@@ -10,7 +10,7 @@ I'm an **AI enthusiast** , gamer and a cosmo geek who is on a **quest for knowle
 
 I'm currently a student learning and honing my skills
 
-Currently working on my society**UV** and various interesting projects
+Currently working on my society **UV** and various interesting projects
 
 Also working on my theories about **gravity** and **quantum physics**
 
