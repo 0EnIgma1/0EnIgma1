@@ -55,6 +55,8 @@ Also working on my theories about **gravity** and **quantum physics**
   - Vs code
   - TensorFlow
   - Mediapipe
+  - Seaborn
+  - Matplotlib
   - Postgres
   - MySQL
   - Django
