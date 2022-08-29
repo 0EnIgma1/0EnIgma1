@@ -77,7 +77,7 @@ Also working on my theories about **gravity** and **quantum physics**
 
 <div style = "display:flex">
 <img src = "https://github-readme-stats.vercel.app/api?username=0EnIgma1&show_icons=true&include_all_commits=true&count_private=true&theme=algolia" alt = "Github stats" height = "170em" />
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=0EnIgma1&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=algolia" alt = "Github stats again" height = "170em" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=0EnIgma1&show_icons=true&include_all_commits=true&layout=compact&theme=algolia" alt = "Github stats again" height = "170em" />
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=0EnIgma1&theme=algolia" alt = "Github Streak" height = "170cm" />
 </div>
 
