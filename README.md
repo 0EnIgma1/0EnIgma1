@@ -59,6 +59,7 @@ Also working on my theories about **gravity** and **quantum physics**
   - Matplotlib
   - Postgres
   - MySQL
+  - MongoDB
   - Django
   - Wagtail
   - Git
