@@ -53,32 +53,6 @@ Also working on my theories about **gravity** and **quantum physics**
 ---
 [![](https://visitcount.itsvg.in/api?id=0EnIgma1&icon=1&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## PROGRAMMING LANGUAGES 
-  - Python
-  - C
-  - SQL
-  - Scala
-  - Prolog
-  - HTML
-  
-## TOOLS
-  - OpenCV
-  - Pandas
-  - Unity
-  - Vs code
-  - TensorFlow
-  - Mediapipe
-  - Seaborn
-  - Matplotlib
-  - Postgres
-  - MySQL
-  - MongoDB
-  - Django
-  - Wagtail
-  - Git
-  
 ## LANGUAGES 🧠
   - தமிழ் (Tamil) 
   - English
